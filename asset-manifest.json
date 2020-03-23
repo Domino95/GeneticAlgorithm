@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GenethicAlgorithm/static/css/main.f86fea02.chunk.css",
+    "main.js": "/GenethicAlgorithm/static/js/main.cb0820e2.chunk.js",
+    "main.js.map": "/GenethicAlgorithm/static/js/main.cb0820e2.chunk.js.map",
+    "runtime-main.js": "/GenethicAlgorithm/static/js/runtime-main.fe95225f.js",
+    "runtime-main.js.map": "/GenethicAlgorithm/static/js/runtime-main.fe95225f.js.map",
+    "static/js/2.bba99738.chunk.js": "/GenethicAlgorithm/static/js/2.bba99738.chunk.js",
+    "static/js/2.bba99738.chunk.js.map": "/GenethicAlgorithm/static/js/2.bba99738.chunk.js.map",
+    "index.html": "/GenethicAlgorithm/index.html",
+    "precache-manifest.d83dc6e1827871b486fd20432dc60c1b.js": "/GenethicAlgorithm/precache-manifest.d83dc6e1827871b486fd20432dc60c1b.js",
+    "service-worker.js": "/GenethicAlgorithm/service-worker.js",
+    "static/css/main.f86fea02.chunk.css.map": "/GenethicAlgorithm/static/css/main.f86fea02.chunk.css.map",
+    "static/js/2.bba99738.chunk.js.LICENSE": "/GenethicAlgorithm/static/js/2.bba99738.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe95225f.js",
+    "static/js/2.bba99738.chunk.js",
+    "static/css/main.f86fea02.chunk.css",
+    "static/js/main.cb0820e2.chunk.js"
+  ]
+}
